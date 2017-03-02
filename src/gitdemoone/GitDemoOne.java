@@ -17,6 +17,8 @@ public class GitDemoOne {
     public static void main(String[] args) {
         System.out.println("Hello Section 112"); 
         System.out.println("Good Bye"); 
+        System.out.println("Hello Test"); 
+        System.out.println("Hello Test Tes One"); 
     }
     
 }
