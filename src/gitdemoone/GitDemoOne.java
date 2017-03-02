@@ -15,8 +15,8 @@ public class GitDemoOne {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello GitHub"); 
-        System.out.println("Hello Section One"); 
+        System.out.println("Hello Section 112"); 
+        System.out.println("Good Bye"); 
     }
     
 }
